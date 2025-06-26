@@ -1,3 +1,8 @@
+## Olá, eu sou Cecilia Paiva 
+- 👀 Estudante de Sistemas de informação na UFPB
+- 🚀 Product Manager | Product Owner | Data Analysis | Python | Java
+- 📫 Contate-me nos emails: ceciliapaiva.pro@gmail.com, ou, maria.paiva@dcx.ufpb.br
+
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
